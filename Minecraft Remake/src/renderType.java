@@ -1,0 +1,1 @@
+public enum renderType{BLOCK, SPRITE};
